@@ -1,5 +1,5 @@
 // Author       :   Alex Kourkoumelis
-// Date         :   1/14/2017
+// Date         :   1/14/2018
 // Title        :   ColorChanger
 // Description  :   Alters the RGB values of each pixel in a .jpg
 
