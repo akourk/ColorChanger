@@ -1,3 +1,9 @@
+// Author       :   Alex Kourkoumelis
+// Date         :   1/14/2017
+// Title        :   ColorChanger
+// Description  :   Alters the RGB values of each pixel in a .jpg
+
+
 import java.awt.*;
 import java.io.*;
 import javax.imageio.*;
